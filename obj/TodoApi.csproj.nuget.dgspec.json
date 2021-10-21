@@ -14,7 +14,7 @@
         "outputPath": "/Users/princecolc/Desktop/Ritza/Repositories/TodoApi3.1/TodoApi/TodoApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/princecolc/.config/NuGet/NuGet.Config"
+          "/Users/princecolc/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

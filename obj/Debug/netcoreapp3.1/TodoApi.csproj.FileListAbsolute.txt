@@ -29,7 +29,6 @@
 /Users/princecolc/Desktop/Ritza/Repositories/TodoApi3.1/TodoApi/TodoApi/obj/Debug/netcoreapp3.1/staticwebassets/TodoApi.StaticWebAssets.xml
 /Users/princecolc/Desktop/Ritza/Repositories/TodoApi3.1/TodoApi/TodoApi/obj/Debug/netcoreapp3.1/scopedcss/bundle/TodoApi.styles.css
 /Users/princecolc/Desktop/Ritza/Repositories/TodoApi3.1/TodoApi/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.RazorTargetAssemblyInfo.cache
-/Users/princecolc/Desktop/Ritza/Repositories/TodoApi3.1/TodoApi/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.csproj.CopyComplete
 /Users/princecolc/Desktop/Ritza/Repositories/TodoApi3.1/TodoApi/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.dll
 /Users/princecolc/Desktop/Ritza/Repositories/TodoApi3.1/TodoApi/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.pdb
 /Users/princecolc/Desktop/Ritza/Repositories/TodoApi3.1/TodoApi/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.genruntimeconfig.cache

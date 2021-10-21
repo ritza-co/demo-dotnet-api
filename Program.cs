@@ -14,12 +14,13 @@ namespace TodoApi
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
-        }
+        } //https://localhost:5000/
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    webBuilder.UseUrls("http://*:5000");
                     webBuilder.UseStartup<Startup>();
                 });
     }
